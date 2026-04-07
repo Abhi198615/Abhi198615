@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hey there, I'm Abhiraj Kumar 👋
-### AI/ML Engineer in the Making · Problem Solver · Builder of Real-World Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;%C2%B7+Problem+Solver+%C2%B7+%F0%9F%A7%A9;Builder+of+Real-World+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal;Building+Intelligent%2C+Scalable+Applications;Turning+Ideas+into+Impact+🚀" alt="Typing SVG" />
+🎓 B.Tech CSE (AI & ML) @ VIT Bhopal &nbsp;|&nbsp; 💡 Turning Ideas into Impact 🚀
 
 </div>
 
@@ -44,28 +44,21 @@ A smart healthcare platform designed to shift the focus from reactive treatment 
 
 ## 🧠 Skills & Technologies
 
-**Languages**
+**💻 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark" />
 
-**Web & Database**
+**🌐 Web & Database**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" />
 
-**Core Concepts**
+**🤖 AI/ML & Tools**
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6E40C9?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-2E86AB?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6B6B?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,linux&theme=dark" />
 
-**AI/ML**
+**🧩 Core Concepts**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
+📊 Data Structures & Algorithms &nbsp;&nbsp;|&nbsp;&nbsp; 🏗️ System Design &nbsp;&nbsp;|&nbsp;&nbsp; 🔷 Object Oriented Programming &nbsp;&nbsp;|&nbsp;&nbsp; 🗣️ Natural Language Processing
 
 ---
 
@@ -82,14 +75,15 @@ A smart healthcare platform designed to shift the focus from reactive treatment 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi198615&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi198615&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi198615&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi198615&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhi198615&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi198615&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -110,13 +104,13 @@ A smart healthcare platform designed to shift the focus from reactive treatment 
 ## ⚡ Fun Fact
 
 > *"The best code I've ever written was the code I deleted — because it meant I found a smarter solution."*  
-> I believe clean architecture and elegant problem-solving are an art form. Every bug is just a puzzle waiting to be cracked. 
+> I believe clean architecture and elegant problem-solving are an art form. Every bug is just a puzzle waiting to be cracked. 🧩
 
 ---
 
 <div align="center">
 
-*Thanks for visiting! If my work resonates with you, let's connect and build something meaningful together.* 
+*Thanks for visiting! If my work resonates with you, let's connect and build something meaningful together.* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhi198615&color=6E40C9&style=flat-square)
 
